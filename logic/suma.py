@@ -1,0 +1,1 @@
+def digitsSum(inputInt): return sum(int(digit) for digit in str(abs(int(inputInt))))
