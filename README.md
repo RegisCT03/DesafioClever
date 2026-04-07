@@ -47,7 +47,13 @@ python -m test.test_palindromos
 python -m test.test_ordenamiento
 ```
 
-## Decisiones de Ingeniería
+### Modo Interactivo
+Para interactuar con el sistema y probar tus propios valores:
+```powershell
+python main.py
+```
+
+## Decisiones de Ingeniería Tomadas
 
   * **Algoritmo Quicksort**: Se seleccionó la estrategia de "Divide y Vencerás" para el ordenamiento, ofreciendo un rendimiento promedio superior a algoritmos básicos como el método de burbuja, demostrando un enfoque sólido en estructuras de datos.
   * **Inmutabilidad**: Siguiendo los requisitos del desafío, la función de ordenamiento devuelve una **nueva lista**, asegurando que la lista original proporcionada no sea modificada durante el proceso.
@@ -55,4 +61,4 @@ python -m test.test_ordenamiento
 
 -----
 
-**Desarrollado por:** [Ma. Regina C. Trejo](https://www.google.com/search?q=https://github.com/RegisCT03)
+**Desarrollado por:** Ma. Regina C. Trejo
